@@ -9,6 +9,6 @@ All notable changes to this project will be documented in this file.
 - inital version
 
 ## [1.1.0]
-- inital version 
-- add backup files
+- add hugo-fresh theme
+- add blog example
 
