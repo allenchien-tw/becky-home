@@ -44,9 +44,9 @@ params:
   - title: 塔羅牌知識
     sublinks:
     - title: 大牌
-      url: /blog/first
+      url: /docs/big-overview
     - title: 小牌
-      url: /blog/second
+      url: /docs/small-overview
     button: true
   footer:
     # Logo (from /images/logos/___)
