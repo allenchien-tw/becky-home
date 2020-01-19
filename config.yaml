@@ -28,7 +28,7 @@ params:
     # Main hero title
     title: 貝兒塔羅占卜
     # Hero subtitle (optional)
-    subtitle: 貝兒塔羅占卜，免費占卜
+    subtitle: 貝兒塔羅占卜
     # Button text
     #buttontext: 
     # Where the main hero button links to
@@ -39,8 +39,6 @@ params:
     clientlogos:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: 占卜功能介紹
-    url: /
   - title: 塔羅牌知識
     sublinks:
     - title: 大牌
