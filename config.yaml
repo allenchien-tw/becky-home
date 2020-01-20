@@ -2,6 +2,7 @@ baseURL: https://belle.kim/
 languageCode: en-us
 title: 貝兒塔羅占卜
 theme: hugo-fresh
+enableRobotsTXT: true
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
 disableKinds:
