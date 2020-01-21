@@ -1,6 +1,6 @@
 baseURL: https://belle.kim/
 languageCode: en-us
-title: 貝兒塔羅占卜
+title: 貝姬塔羅占卜
 theme: hugo-fresh
 enableRobotsTXT: true
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
@@ -27,9 +27,9 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: 貝兒塔羅占卜
+    title: 貝姬塔羅占卜
     # Hero subtitle (optional)
-    subtitle: 貝兒塔羅占卜
+    subtitle: 貝姬塔羅占卜
     # Button text
     #buttontext: 
     # Where the main hero button links to
