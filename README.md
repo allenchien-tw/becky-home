@@ -1,5 +1,5 @@
-# backy-home
-Backy's Home
+# becky-home
+Becky's Home
 
 
 # Changelog
