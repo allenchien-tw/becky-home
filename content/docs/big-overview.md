@@ -1,6 +1,7 @@
 ---
 title: 大牌
 include_footer: true
+date: 2020-01-30
 ---
 
 ![Fool](/images/00-tarot-images/00-fool.jpg "Fool")
