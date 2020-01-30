@@ -11,8 +11,6 @@
       <div id="status"></div>
     </div>
 
-    {{ block "main" . }}
-
     {{ $pages := .Pages }}
     {{ range $pages.ByPublishDate.Reverse }}
       <p>
@@ -24,8 +22,6 @@
         <br>
         {{ .Summary }}
       </p>
-    {{ end }}
-
     {{ end }}
 
     <!-- Back To Top Button -->
