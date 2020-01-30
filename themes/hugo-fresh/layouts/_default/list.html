@@ -21,25 +21,18 @@
         {{ with .Site.Params.customDateFormat }}{{ $customDateFormat = . }}{{ end }}
         <br>
         <small class="text-secondary">{{ .PublishDate.Format $customDateFormat }}</small>
-        {{ partial "tags" . }}
         <br>
         {{ .Summary }}
       </p>
     {{ end }}
 
-    {{ partial "single/single.html" . }}
-
-    {{ if .Params.include_footer }}
-    {{ partial "footer.html" . }}
     {{ end }}
 
     <!-- Back To Top Button -->
     <div id="backtotop"><a href="#"></a></div>
 
-    {{ if .Params.sidebar }}
-    {{ partial "single/sidebar.html" . }}
-    {{ end }}
-
+    {{ if .Site.Params.sidebar }}
+    {{ partial "sidebar.html" . }}
     {{ end }}
 
     {{ partial "javascript.html" . }}
