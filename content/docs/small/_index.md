@@ -1,6 +1,4 @@
 ---
-title: Docs
-include_footer: true
-sidebar: true
+title: _Index
 date: 2020-01-30
 ---
