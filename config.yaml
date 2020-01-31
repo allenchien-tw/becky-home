@@ -46,7 +46,7 @@ params:
       url: /docs/big/big-overview
     - title: 小牌
       url: /docs/small/small-overview
-    button: true
+    button: false
   footer:
     # Logo (from /images/logos/___)
     logo: fresh-white-alt.svg
