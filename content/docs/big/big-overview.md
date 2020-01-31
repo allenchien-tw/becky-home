@@ -3,6 +3,7 @@ title: 大牌
 include_footer: true
 sidebar: true
 date: 2020-01-30
+categories: ["big"]
 ---
 
 {{< figure src="/images/00-tarot-images/00-fool.jpg" title="Fool" height="50" width="50">}}
