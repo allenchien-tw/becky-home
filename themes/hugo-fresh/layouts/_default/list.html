@@ -11,6 +11,8 @@
       <div id="status"></div>
     </div>
     
+    {{ block "main" . }}
+
     <h1>{{ .Title }}</h1>
     {{ range .Pages }}
         <li>
@@ -23,6 +25,8 @@
 
     {{ if .Params.sidebar }}
     {{ partial "single/sidebar.html" . }}
+    {{ end }}
+
     {{ end }}
 
     {{ partial "javascript.html" . }}
