@@ -11,7 +11,7 @@
       <div id="status"></div>
     </div>
     
-    <H1>AAAAAAAAA</H1>
+    {{ define "main" }}
 
     {{ partial "list/list.html" . }}
 
@@ -24,6 +24,8 @@
 
     {{ if .Params.sidebar }}
     {{ partial "single/sidebar.html" . }}
+    {{ end }}
+
     {{ end }}
 
     {{ partial "javascript.html" . }}
