@@ -12,22 +12,12 @@
     </div>
 
     {{ block "main" . }}
-
-    {{ $pages := .Pages }}
-    {{ range $pages.ByPublishDate.Reverse }}
-      <p>
-        <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
-        {{ $customDateFormat := "January 2, 2006" }}
-        {{ with .Site.Params.customDateFormat }}{{ $customDateFormat = . }}{{ end }}
-        <br>
-        <small class="text-secondary">{{ .PublishDate.Format $customDateFormat }}</small>
-        <br>
-        {{ .Summary }}
-      </p>
+    <h1>{{ .Title }}</h1>
+    {{ range .Pages }}
+        <li>
+            <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+        </li>
     {{ end }}
-
-    {{ if .Params.include_footer }}
-    {{ partial "footer.html" . }}
     {{ end }}
 
     <!-- Back To Top Button -->
