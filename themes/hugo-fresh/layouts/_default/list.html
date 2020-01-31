@@ -11,8 +11,6 @@
       <div id="status"></div>
     </div>
     
-    {{ block "main" . }}
-
     <H1>AAAAAAAAA</H1>
 
     {{ partial "list/list.html" . }}
@@ -26,8 +24,6 @@
 
     {{ if .Params.sidebar }}
     {{ partial "single/sidebar.html" . }}
-    {{ end }}
-
     {{ end }}
 
     {{ partial "javascript.html" . }}
