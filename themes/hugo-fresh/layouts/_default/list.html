@@ -13,11 +13,10 @@
     
     {{ block "main" . }}
 
-    <h1>{{ .Title }}</h1>
-    {{ range .Pages }}
-        <li>
-            <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-        </li>
+    {{ partial "list/list.html" . }}
+
+    {{ if .Params.include_footer }}
+    {{ partial "footer.html" . }}
     {{ end }}
 
     <!-- Back To Top Button -->
