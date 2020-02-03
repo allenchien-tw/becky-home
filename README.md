@@ -11,3 +11,9 @@ All notable changes to this project will be documented in this file.
 ## [1.1.0]
 - add hugo-fresh theme
 - add blog example
+
+## [1.1.1]
+- customized inital web site
+
+## [1.1.2]
+- add list template
