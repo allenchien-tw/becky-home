@@ -1,8 +1,8 @@
 ---
-title: 大牌
+title: 愚人 (The Fool)
 include_footer: true
 date: 2020-01-30
-categories: ["big"]
+categories: ["大牌介紹"]
 ---
 
 {{< figure src="/images/00-tarot-images/00-fool.jpg" title="Fool" height="50" width="50">}}
