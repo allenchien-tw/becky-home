@@ -60,6 +60,6 @@ params:
         title: "塔羅牌知識"
         links:
         - text: 大牌
-          link: /docs/big/big-overview
+          link: /docs/big
         - text: 小牌
-          link: /docs/small/small-overview
+          link: /docs/small
