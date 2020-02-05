@@ -1,5 +1,11 @@
 ---
 title: 魔術師 (The Magician)
+description: 塔羅牌 牌義 魔術師
+keywords:
+- 塔羅牌
+- 占卜
+- 魔術師
+- Magician
 include_footer: true
 date: 2020-02-02
 categories: ["大牌牌義"]

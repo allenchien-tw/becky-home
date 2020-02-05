@@ -1,5 +1,12 @@
 ---
 title: 愚人 (The Fool)
+description: 塔羅牌 牌義 愚人 愚者
+keywords:
+- 塔羅牌
+- 占卜
+- 愚人
+- 愚者
+- Fool
 include_footer: true
 date: 2020-02-01
 categories: ["大牌牌義"]

@@ -1,5 +1,12 @@
 ---
 title: 女祭司 (The High Priestess)
+description: 塔羅牌 牌義 女祭司 祭司
+keywords:
+- 塔羅牌
+- 占卜
+- 祭司
+- 女祭司
+- High Priestess
 include_footer: true
 date: 2020-02-03
 categories: ["大牌牌義"]
