@@ -9,10 +9,12 @@
     </div>
     <div class="columns is-vcentered">
       <div class="column is-3">
-        {{ with .Resources.GetMatch "*.png" }}
-          <figure class="image is-4by5">
-            <img src="{{ .RelPermalink }}" />
-          </figure>
+        {{ if .Params.image }}
+          {{ with .Resources.GetMatch (.Params.image) }}
+            <figure class="image is-4by5">
+              <img src="{{ .Permalink }}" />
+            </figure>
+          {{ end }}
         {{ end }}
       </div>
       <div class="column is-8">

@@ -10,8 +10,10 @@
                 <div class="box">
                   <figure class="image is-square">
                     <a href="{{ .Permalink }}"> 
-                      {{ with .Resources.GetMatch "*.png" }}
-                      <img src="{{ .RelPermalink }}">
+                      {{ if .Params.image }}
+                        {{ with .Resources.GetMatch (.Params.image) }}
+                          <img src="{{ .RelPermalink }}">
+                        {{ end }}
                       {{ end }}
                     </a>
                   </figure>

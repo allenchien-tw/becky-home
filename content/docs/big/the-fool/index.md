@@ -3,10 +3,9 @@ title: 愚人 (The Fool)
 include_footer: true
 date: 2020-02-05
 categories: ["大牌牌義"]
+image: the-fool.jpg
 summary: 愚人穿著色彩斑斕的服裝，頭上戴頂象徵成功的桂冠，無視於前方的懸崖，昂首闊步向前行。
 ---
-
-
 
 <p class="title is-3">起源</p>
 <p class="subtitle is-6">
@@ -19,7 +18,7 @@ summary: 愚人穿著色彩斑斕的服裝，頭上戴頂象徵成功的桂冠�
 <br/><br/>
 <p class="title is-3">牌義</p>
 <p class="subtitle is-4">明顯的危險</p>
-<p>你面對明顯的危險，除非你已經抱定必死的決心，否則硬拚絕對是不明智的選擇，還是明哲保身吧。</p>
+<p class="subtitle is-6">你面對明顯的危險，除非你已經抱定必死的決心，否則硬拚絕對是不明智的選擇，還是明哲保身吧。</p>
 <p class="subtitle is-4">無知</p>
-<p>你對於現狀一無所知，也無法判斷是非對錯，如果想要 作出明智的決定，就要加緊學習把狀況快點搞清楚。</p>
+<p class="subtitle is-6">你對於現狀一無所知，也無法判斷是非對錯，如果想要 作出明智的決定，就要加緊學習把狀況快點搞清楚。</p>
 
