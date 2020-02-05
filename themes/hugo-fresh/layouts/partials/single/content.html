@@ -7,6 +7,17 @@
         <div class="divider"></div>
       </div>
     </div>
-    {{ .Content }}
+    <div class="columns is-vcentered">
+      <div class="column is-3">
+        {{ with .Resources.GetMatch "*.png" }}
+          <figure class="image is-4by5">
+            <img src="{{ .RelPermalink }}" />
+          </figure>
+        {{ end }}
+      </div>
+      <div class="column is-8">
+        {{ .Content }}
+      </div>
+    </div>
   </div>
 </section>

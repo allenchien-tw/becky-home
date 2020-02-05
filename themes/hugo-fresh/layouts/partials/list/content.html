@@ -8,9 +8,11 @@
             {{ range .Pages }}
               <div class="column is-4">
                 <div class="box">
-                  <figure class="image is-3by2">
+                  <figure class="image is-square">
                     <a href="{{ .Permalink }}"> 
-                      <img src="https://themes.gohugo.io/theme/hugo-refresh/images/default_summary_hu2be732aee21a2469ead3fe1f2df8caca_2088687_600x0_resize_q75_box.jpg" alt="">
+                      {{ with .Resources.GetMatch "*.png" }}
+                      <img src="{{ .RelPermalink }}">
+                      {{ end }}
                     </a>
                   </figure>
                   <h3 class="title is-5 refresh-summary-title">{{ .Title }}</h3>

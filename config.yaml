@@ -42,9 +42,9 @@ params:
   navbar:
   - title: 塔羅牌知識
     sublinks:
-    - title: 大牌
+    - title: 大牌牌義
       url: /docs/big
-    - title: 小牌
+    - title: 小牌牌義
       url: /docs/small
     button: false
   footer:
@@ -59,7 +59,7 @@ params:
       column1:
         title: "塔羅牌知識"
         links:
-        - text: 大牌
+        - text: 大牌牌義
           link: /docs/big
-        - text: 小牌
+        - text: 小牌牌義
           link: /docs/small
