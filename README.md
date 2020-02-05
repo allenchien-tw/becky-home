@@ -17,3 +17,7 @@ All notable changes to this project will be documented in this file.
 
 ## [1.1.2]
 - add list template
+
+## [1.1.3]
+- add image to list 
+- add 2 card definition
