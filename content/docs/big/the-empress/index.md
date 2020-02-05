@@ -7,7 +7,7 @@ keywords:
 - 皇后
 - Empress
 include_footer: true
-date: 2020-02-02
+date: 2020-02-04
 categories: ["大牌牌義"]
 image: the-empress.jpg
 summary: 自古以來土地生養萬物，代表土地的母神－大地之母－也是被廣範崇拜的對象。
