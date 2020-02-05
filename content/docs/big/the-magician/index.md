@@ -10,7 +10,7 @@ include_footer: true
 date: 2020-02-02
 categories: ["大牌牌義"]
 image: the-magician.jpg
-summary: 魔術師是一個天人之間的溝通者。 在精神上，這個人是有意識 地參與上天神聖的計劃，並將天啟的神恩藉由他的口中傳遞出去。
+summary: 魔術師是一個天人之間的溝通者。 魔術師參與上天神聖的計劃，並將天啟的神恩藉由他的口中傳遞出去。
 ---
 
 <p class="title is-3">起源</p>
