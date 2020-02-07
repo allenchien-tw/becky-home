@@ -1,27 +1,27 @@
 ---
-title: 權杖排組 (The Leangle)
-description: 塔羅牌 牌義 權杖
+title: 聖杯排組 (The Cups)
+description: 塔羅牌 牌義 聖杯
 keywords:
 - 塔羅牌
 - 占卜
-- 權杖
-- Leangle
+- 聖杯
+- Cups
 include_footer: true
 date: 2020-01-01
 categories: ["小牌牌義"]
-image: the-leangle.jpg
-summary: 權杖排組
+image: the-cups.jpg
+summary: 聖杯排組
 ---
 
-<p class="title is-3">權杖牌組代表行動的十個面向</p>
-<p class="subtitle is-6">權杖Ａ表現一個新行動的開始，帶有活力和自信</p>
-<p class="subtitle is-6">權杖二 面對不同的行動選項，要慎重考慮才往下一步</p>
-<p class="subtitle is-6">權杖三表示相互 合作得到的初步成果</p>
-<p class="subtitle is-6">權杖四就可以好好享受行動的成果</p>
-<p class="subtitle is-6">權杖五表示相互之間的競爭和衝突</p>
-<p class="subtitle is-6">權杖六就有勝利者在當中脫穎而出</p>
-<p class="subtitle is-6">權杖七表示在優勢的地位上面對挑戰</p>
-<p class="subtitle is-6">權杖八則是選擇了忙碌而快速的行動</p>
-<p class="subtitle is-6">權杖九表示行動過多時就不得不採取防守的策略</p>
-<p class="subtitle is-6">權杖十則是得到自己所有想要的東西，但也可能因為負 擔太重而有過勞的危險</p>
-
+<p class="title is-3">聖杯牌組代表感情的十個面向</p>
+<br/>
+<p class="subtitle is-6">聖杯Ａ表示新感情的開始，也十分快樂和滿足</p>
+<p class="subtitle is-6">聖杯二就進入一個熱戀的關係，也展現出兩個人之間的平等</p>
+<p class="subtitle is-6">聖杯三表現 快樂和慶祝的感情</p>
+<p class="subtitle is-6">聖杯四就開始發生一些不滿足的狀況</p>
+<p class="subtitle is-6">聖杯五表現出爭吵或失戀的傷心</p>
+<p class="subtitle is-6">聖杯六就陷入了回憶當中</p>
+<p class="subtitle is-6">聖杯七開始尋找內心對感情真正的感覺</p>
+<p class="subtitle is-6">聖杯八就有了感情上的行動力</p>
+<p class="subtitle is-6">聖杯九進入個人覺得滿意的感情狀態</p>
+<p class="subtitle is-6">聖杯十表示像家人一般相處的模式，也表示一群人之間的深厚感情</p>
