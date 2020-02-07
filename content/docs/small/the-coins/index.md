@@ -1,5 +1,5 @@
 ---
-title: 錢幣排組 (The Coins) 
+title: 錢幣牌組 (The Coins) 
 description: 塔羅牌 牌義 錢幣
 keywords:
 - 塔羅牌
@@ -10,10 +10,10 @@ include_footer: true
 date: 2020-01-04
 categories: ["小牌牌義"]
 image: the-coins.jpg
-summary: 錢幣排組代表物質生活的十個面向
+summary: 錢幣牌組代表物質生活的十個面向
 ---
 
-<p class="title is-3">錢幣排組代表物質生活的十個面向</p>
+<p class="title is-3">錢幣牌組代表物質生活的十個面向</p>
 <br/>
 <p class="subtitle is-6">錢幣Ａ表示新的財務計劃，也有明確的方向可以努力</p>
 <p class="subtitle is-6">錢幣二 把金錢投入之後就會有起伏和變化</p>

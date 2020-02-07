@@ -1,5 +1,5 @@
 ---
-title: 權杖排組 (The Wangds)
+title: 權杖牌組 (The Wangds)
 description: 塔羅牌 牌義 權杖
 keywords:
 - 塔羅牌

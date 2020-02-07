@@ -1,5 +1,5 @@
 ---
-title: 寶劍排組 (The Swords)
+title: 寶劍牌組 (The Swords)
 description: 塔羅牌 牌義 寶劍
 keywords:
 - 塔羅牌
@@ -10,10 +10,10 @@ include_footer: true
 date: 2020-01-03
 categories: ["小牌牌義"]
 image: the-swords.jpg
-summary: 聖杯排組代表挑戰與傷害的十個面向
+summary: 寶劍牌組代表挑戰與傷害的十個面向
 ---
 
-<p class="title is-3">寶劍排組代表挑戰與傷害的十個面向</p>
+<p class="title is-3">寶劍牌組代表挑戰與傷害的十個面向</p>
 <br/>
 <p class="subtitle is-6">寶劍Ａ表示面對到新的挑戰要展開攻擊</p>
 <p class="subtitle is-6">寶劍二表現出僵持不下的冷戰狀況</p>
