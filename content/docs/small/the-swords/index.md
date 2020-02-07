@@ -7,7 +7,7 @@ keywords:
 - 寶劍
 - Sword
 include_footer: true
-date: 2020-01-01
+date: 2020-01-03
 categories: ["小牌牌義"]
 image: the-swords.jpg
 summary: 聖杯排組代表挑戰與傷害的十個面向
