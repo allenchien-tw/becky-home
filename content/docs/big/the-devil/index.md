@@ -1,5 +1,5 @@
 ---
-title: 惡魔 (The Devil)  The Devil 惡魔
+title: 惡魔 (The Devil)
 description: 塔羅牌 牌義 惡魔
 keywords:
 - 塔羅牌
@@ -10,7 +10,7 @@ include_footer: true
 date: 2020-02-07
 categories: ["大牌牌義"]
 image: the-devil.jpg
-summary: 惡魔代表了人性當中墮落的一面，人類的貪婪、感官的享受、物質的慾望等等，都是惡魔拿來引誘人類 的工具。
+summary: 惡魔代表了人性當中墮落的一面，人類的貪婪、感官的享受、物質的慾望等等，都是惡魔拿來引誘人類的工具。
 ---
 
 <p class="title is-3">起源</p>
