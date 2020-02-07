@@ -7,7 +7,7 @@ keywords:
 - 正義
 - Justice
 include_footer: true
-date: 2020-02-06
+date: 2020-02-07
 categories: ["大牌牌義"]
 image: the-justice.jpg
 summary: 源自希臘正義女神的形象，一方面要有足夠的智慧去衡量判斷是非善惡，同時也要有執行的武力。

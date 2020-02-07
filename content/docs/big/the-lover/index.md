@@ -7,7 +7,7 @@ keywords:
 - 戀人
 - Lover
 include_footer: true
-date: 2020-02-06
+date: 2020-02-07
 categories: ["大牌牌義"]
 image: the-lover.jpg
 summary: 取自於《聖經》創世紀的神話，表現出亞當和夏娃在離開伊甸園之前天真的本性和純潔的愛戀。
