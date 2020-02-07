@@ -9,8 +9,8 @@ keywords:
 include_footer: true
 date: 2020-01-01
 categories: ["小牌牌義"]
-image: the-wangd.jpg
-summary: 權杖排組
+image: the-wangds.jpg
+summary: 權杖牌組代表行動的十個面向
 ---
 
 <p class="title is-3">權杖牌組代表行動的十個面向</p>

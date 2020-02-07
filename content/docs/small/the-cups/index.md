@@ -9,7 +9,7 @@ keywords:
 include_footer: true
 date: 2020-01-01
 categories: ["小牌牌義"]
-image: the-cup.jpg
+image: the-cups.jpg
 summary: 聖杯排組
 ---
 
