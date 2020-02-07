@@ -1,15 +1,15 @@
 ---
-title: 權杖排組 (The Leangle)
+title: 權杖排組 (The Wangds)
 description: 塔羅牌 牌義 權杖
 keywords:
 - 塔羅牌
 - 占卜
 - 權杖
-- Leangle
+- Wangd
 include_footer: true
 date: 2020-01-01
 categories: ["小牌牌義"]
-image: the-leangle.jpg
+image: the-wangd.jpg
 summary: 權杖排組
 ---
 
