@@ -1,5 +1,5 @@
 ---
-title: 太陽 (The Sun) The Sun 太陽
+title: 太陽 (The Sun)
 description: 塔羅牌 牌義 太陽
 keywords:
 - 塔羅牌
