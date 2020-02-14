@@ -7,7 +7,7 @@ keywords:
 - 星星
 - Star
 include_footer: true
-date: 2020-02-07
+date: 2020-01-18
 categories: ["大牌牌義"]
 image: the-star.jpg
 summary: 星星自古以來就被視為上 天啟示的工具，常有夜觀星象發出預言的說法，表現出上天對人事的導引力量。

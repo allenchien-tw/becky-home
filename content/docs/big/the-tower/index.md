@@ -7,7 +7,7 @@ keywords:
 - 塔
 - Tower
 include_footer: true
-date: 2020-02-07
+date: 2020-01-17
 categories: ["大牌牌義"]
 image: the-tower.jpg
 summary: 塔的意象源自於《聖經》創世紀當中巴別塔的故事， 訴說著人類想要建造通往天上的高塔，以彰顯自己的能力。

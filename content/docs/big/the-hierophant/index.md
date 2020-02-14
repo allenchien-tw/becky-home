@@ -8,7 +8,7 @@ keywords:
 - 教宗
 - Hierophant
 include_footer: true
-date: 2020-02-06
+date: 2020-01-06
 categories: ["大牌牌義"]
 image: the-hierophant.jpg
 summary: 教皇是歐洲宗教重要的象徵，一方面他是宗教組織的領導者，主導了整個羅馬教廷的政策及走向。

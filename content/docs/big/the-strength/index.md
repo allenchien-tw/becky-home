@@ -7,7 +7,7 @@ keywords:
 - 力量
 - Strength
 include_footer: true
-date: 2020-02-07
+date: 2020-01-09
 categories: ["大牌牌義"]
 image: the-strength.jpg
 summary: 獅子自古以來就被視為可怕的猛獸，一個女子可以馴服獅子，就表示她有比獅子更強大的力量。

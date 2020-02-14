@@ -7,7 +7,7 @@ keywords:
 - 吊人
 - Hanged Man
 include_footer: true
-date: 2020-02-07
+date: 2020-01-13
 categories: ["大牌牌義"]
 image: the-hanged-man.jpg
 summary: 吊人是頭上發出智慧之光的開悟者，他在生命暫停的時刻通過嚴苛的考驗，並以與他人不同的觀點得到洞見與喜悅。

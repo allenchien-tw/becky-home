@@ -7,7 +7,7 @@ keywords:
 - 死神
 - Death
 include_footer: true
-date: 2020-02-07
+date: 2020-01-14
 categories: ["大牌牌義"]
 image: the-death.jpg
 summary: 死亡代表了生命的結束，但生與死是相對的概念，舊的結束才會有新的開始。因為舊的不去新的不來。

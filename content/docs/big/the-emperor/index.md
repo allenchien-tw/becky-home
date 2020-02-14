@@ -7,7 +7,7 @@ keywords:
 - 皇帝
 - Emperor
 include_footer: true
-date: 2020-02-05
+date: 2020-01-05
 categories: ["大牌牌義"]
 image: the-emperor.jpg
 summary: 古代帝國的皇帝，代表了統治的最高權力，除了能夠掌握人民的生殺大權之外，也提供了必要的保護和穩定的秩序。

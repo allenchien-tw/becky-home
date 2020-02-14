@@ -8,7 +8,7 @@ keywords:
 - 隱者
 - Hermit
 include_footer: true
-date: 2020-02-07
+date: 2020-01-10
 categories: ["大牌牌義"]
 image: the-hermit.jpg
 summary: 歐洲傳統當中的隱者，比較接近中國的苦行僧，一個人到山裡面修行沈思，更多時候隱者其實是在幫助別人的引導者。

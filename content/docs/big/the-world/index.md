@@ -7,7 +7,7 @@ keywords:
 - 世界
 - World
 include_footer: true
-date: 2020-02-07
+date: 2020-01-22
 categories: ["大牌牌義"]
 image: the-world.jpg
 summary: 源自《聖經》啟示錄當中 的意象，代表了永恆的新天新地，人可以在當中自由快樂的生活。

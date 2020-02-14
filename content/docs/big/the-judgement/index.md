@@ -7,7 +7,7 @@ keywords:
 - 審判
 - Judgement
 include_footer: true
-date: 2020-02-07
+date: 2020-01-21
 categories: ["大牌牌義"]
 image: the-judgement.jpg
 summary: 源自於《聖經》啟示錄，當中記載了世界末日來臨時，天使將要吹響號角叫人由死裡復活，再依照生前的所作所為接受審判。

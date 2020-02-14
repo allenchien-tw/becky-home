@@ -7,7 +7,7 @@ keywords:
 - 惡魔
 - Devil
 include_footer: true
-date: 2020-02-07
+date: 2020-01-16
 categories: ["大牌牌義"]
 image: the-devil.jpg
 summary: 惡魔代表了人性當中墮落的一面，人類的貪婪、感官的享受、物質的慾望等等，都是惡魔拿來引誘人類的工具。

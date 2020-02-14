@@ -7,7 +7,7 @@ keywords:
 - 命運之輪
 - The Wheel of Fortune
 include_footer: true
-date: 2020-02-07
+date: 2020-01-11
 categories: ["大牌牌義"]
 image: the-wheel-of-fortune.jpg
 summary: 冥冥之中早已註定，命運之輪告訴我們有些事情已經超過了人力可以控制的範圍，除了接受之外別無他法。

@@ -7,7 +7,7 @@ keywords:
 - 戰車
 - Chariot
 include_footer: true
-date: 2020-02-07
+date: 2020-01-08
 categories: ["大牌牌義"]
 image: the-chariot.jpg
 summary: 戰車代表了強大的軍事力量和戰爭行為，同時也表現征服者的勝利成功。

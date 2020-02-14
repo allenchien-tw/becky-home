@@ -7,7 +7,7 @@ keywords:
 - 太陽
 - Sun
 include_footer: true
-date: 2020-02-07
+date: 2020-01-20
 categories: ["大牌牌義"]
 image: the-sun.jpg
 summary: 太陽自古以來即為光明的代表，帶給這個世界強大的生命力。以一個裸體的小孩騎著白馬來代表依公義戰勝一切的神聖使者。

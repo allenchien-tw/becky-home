@@ -8,7 +8,7 @@ keywords:
 - 女祭司
 - High Priestess
 include_footer: true
-date: 2020-02-03
+date: 2020-01-03
 categories: ["大牌牌義"]
 image: the-high-priestess.jpg
 summary: 女祭司是神祕智慧的掌管者，她守護了創世以來的祕密，在神殿中靜靜的等待著。

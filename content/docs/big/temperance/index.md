@@ -7,7 +7,7 @@ keywords:
 - 節制
 - Temperance
 include_footer: true
-date: 2020-02-07
+date: 2020-01-15
 categories: ["大牌牌義"]
 image: temperance.jpg
 summary: 節制的意義來自兩個不同的部分，主要的意思與倒水的天使有關，將生命之水在兩個杯子之間交流，代表某種融合與淨化。
