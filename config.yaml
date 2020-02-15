@@ -31,9 +31,9 @@ params:
     # Hero subtitle (optional)
     subtitle: 塔羅。占卜。牌義說明
     # Button text
-    #buttontext: 
+    buttontext: 占卜
     # Where the main hero button links to
-    #buttonlink: "#"
+    buttonlink: "#"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
