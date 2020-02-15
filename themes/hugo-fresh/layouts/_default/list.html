@@ -1,12 +1,6 @@
 {{ define "main" }}
 
   {{ partial "list/list.html" . }}
-
-  {{ if .Params.include_footer }}
   {{ partial "footer.html" . }}
-  {{ end }}
 
-  <!-- Back To Top Button -->
-  <div id="backtotop"><a href="#"></a></div>
-  
 {{ end }}
