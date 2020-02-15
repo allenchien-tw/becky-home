@@ -1,14 +1,9 @@
 {{ define "main" }}
 
-  <div id="app">
-    <h1>{{ message }}</h1>
-  </div>
-
+  {{ partial "read/reading.html" . }}
   {{ partial "footer.html" . }}
 
   <!-- Back To Top Button -->
   <div id="backtotop"><a href="#"></a></div>
-
-  {{ partial "read/read-js.html" . }}
 
 {{ end }}
