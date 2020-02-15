@@ -1,11 +1,14 @@
 {{ define "main" }}
 
-  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-  <h1>線上占卜</h1>
+  <div id="app">
+    <h1>{{ message }}</h1>
+  </div>
 
   {{ partial "footer.html" . }}
 
   <!-- Back To Top Button -->
   <div id="backtotop"><a href="#"></a></div>
+
+  {{ partial "read/read.html" . }}
 
 {{ end }}
