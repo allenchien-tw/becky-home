@@ -51,10 +51,10 @@ params:
     # Logo (from /images/logos/___)
     logo: becky-alt.svg
     # Social Media Title
-    socialmediatitle: Follow Us
+    socialmediatitle: 
     # Social media links (GitHub, Twitter, etc.). All are optional.
-    socialmedia:
-    bulmalogo: true
+    #socialmedia:
+    bulmalogo: false
     quicklinks:
       column1:
         title: "塔羅牌知識"
